@@ -6,6 +6,7 @@ Olá! Sou Thais Andrezza, migrando de uma sólida carreira no setor administrati
 
 Front-End Development: TypeScript, React, JavaScript.
 Gestão de Projetos: Planejando evoluir na liderança de equipes e na entrega de soluções digitais.
+
 🎯 Objetivo: Unir habilidades técnicas e comportamentais para criar interfaces ricas, experiências de usuário incríveis e, futuramente, liderar projetos de tecnologia com impacto.
 
 🤝 Sempre aberta a novas oportunidades e conexões na área de tecnologia!
